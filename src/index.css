@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
-  
+
 html {
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -12,7 +12,7 @@ html {
     text-align: center;
     padding: 20px;
 }
-  
+
 .grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -42,5 +42,5 @@ h1 {
 }
 
 .link-home {
-  font-size: 0.8rem;
+    font-size: 0.8rem;
 }
